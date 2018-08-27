@@ -1,0 +1,9 @@
+flask
+flask-json
+flask-jsonify
+flask-Blueprint
+flask-request
+requests
+functools-wraps
+flask_restplus-Resource
+flask_restplus-Api
